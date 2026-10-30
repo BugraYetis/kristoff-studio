@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ Kristoff Studio
+# 🎨 Kristoff Studio
 
 **Kreatif Stüdyo · Kreatif Tasarım Stüdyosu**
 
